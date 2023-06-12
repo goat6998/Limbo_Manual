@@ -1,0 +1,1 @@
+"C:\Program Files\Google\Chrome\Application\chrome.exe" https://bc.game/ja/game/limbo -remote-debugging-port=9222 --user-data-dir="C:\Temp"

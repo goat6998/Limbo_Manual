@@ -1,0 +1,8 @@
+ƒGƒ‰[î•ñ
+Traceback (most recent call last):
+  File "C:\Users\Goat6\Desktop\Limbo_Manual\Live.py", line 14, in __init__
+    self.set_action()
+  File "C:\Users\Goat6\Desktop\Limbo_Manual\Live.py", line 52, in set_action
+    md.set_txt("set_count", 1)
+    ^^^^^^^^^^
+AttributeError: module 'Method' has no attribute 'set_txt'
